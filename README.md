@@ -1,5 +1,4 @@
 ### Hi there 👋
-🌱 I’m currently learning ...
 
 Let's see if I can contribute something useful.
 
