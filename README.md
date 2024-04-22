@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning ...
+
+Let's see if I can contribute something useful.
 
 <!--
 **J-iraiya/J-iraiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
